@@ -17,6 +17,7 @@ but,
 # Sort 
 
 ```cpp
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -36,11 +37,23 @@ int main()
 
     return 0;
 }
+
+/*
+-- output --
+
+12
+23
+43
+65
+92
+*/
+
 ```
 
 # Sort (defined indexes)
 
 ```cpp
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -60,4 +73,15 @@ int main()
 
     return 0;
 }
+
+/*
+-- output --
+
+12
+43
+23
+65
+92
+*/
+
 ```
