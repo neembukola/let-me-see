@@ -5,22 +5,21 @@ Tutorial: [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)'s
 
 ```cpp
 
-left = 0, right = arrSize - 1;
+int left = 0, right = arrSize - 1, mid;
+int ans = -1;
 
-while(left <= right) {
+while (left <= right) {
     mid = left + (right - left) / 2;
 
-    if(arr[mid] == target) {
-        return mid;
+    if (arr[mid] == target) {
+        ans = mid;
     }
 
-    if(arr[mid] < target) {
+    if (arr[mid] < target) {
         left = mid + 1;
     } else {
         right = mid - 1;
     }
-
-    return -1;
 }
 
 /*
@@ -51,10 +50,10 @@ cin >> x;
 int left = 0, right = arrSize - 1, mid;
 int ans = -1;
 
-while(left <= right) {
+while (left <= right) {
     mid = left + (right - left) / 2;
 
-    if(arr[mid] >= x) {
+    if (arr[mid] >= x) {
         ans = arr[mid];
         right = mid - 1;
     } else {
