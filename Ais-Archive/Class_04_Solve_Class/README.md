@@ -1,0 +1,10 @@
+### Problems
+- Next Round [CodeForces - 158A](https://codeforces.com/problemset/problem/158/A)  
+- Calculating Function [CodeForces - 486A](https://codeforces.com/problemset/problem/486/A)  
+- Petr and a Combination [Lock CodeForces - 1097B](https://codeforces.com/problemset/problem/1097/B)  
+- Preparing Olympiad [CodeForces - 550B](https://codeforces.com/problemset/problem/550/B)  
+- Fedor and New Game [CodeForces - 467B](https://codeforces.com/problemset/problem/467/B)  
+- Raising Bacteria [CodeForces - 579A](https://codeforces.com/problemset/problem/579/A)  
+- Powers Of Two [CodeForces - 1095C](https://codeforces.com/problemset/problem/1095/C)  
+- Dima and a Bad XOR [CodeForces - 1151B](https://codeforces.com/problemset/problem/1151/B)  
+- You Are Given Two Binary Strings... [CodeForces - 1202A](https://codeforces.com/problemset/problem/1202/A)  
